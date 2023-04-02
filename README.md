@@ -1,35 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ahmad Saboor</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Product Name
+> Short blurb about what your product does.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsaboor20&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsaboor20" /> </p>
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsaboor20" alt="ahmadsaboor20" /></a> </p>
+One to two paragraph statement about your product and what it does.
 
-<p align="left"> <a href="https://twitter.com/ahmadsaboor_20" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadsaboor_20?logo=twitter&style=for-the-badge" alt="ahmadsaboor_20" /></a> </p>
+![](header.png)
 
-- 🔭 I’m currently working on **Web Development**
+## Installation
 
-- 🌱 I’m currently learning **Web Development**
+OS X & Linux:
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmadSaboor20?tab=repositories](https://github.com/AhmadSaboor20?tab=repositories)
+```sh
+npm install my-crazy-module --save
+```
 
-- 💬 Ask me about **Web Development**
+Windows:
 
-- 📫 How to reach me **ahmadsaboor020@gmail.com**
+```sh
+edit autoexec.bat
+```
 
+## Usage example
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmadsaboor_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadsaboor_20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iamahmadsaboor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamahmadsaboor/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21342109/ahmad-saboor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21342109/ahmad-saboor" height="30" width="40" /></a>
-</p>
+A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+_For more examples and usage, please refer to the [Wiki][wiki]._
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsaboor20&show_icons=true&locale=en&layout=compact" alt="ahmadsaboor20" /></p>
+## Development setup
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsaboor20&show_icons=true&locale=en" alt="ahmadsaboor20" /></p>
+Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsaboor20&" alt="ahmadsaboor20" /></p>
+```sh
+make install
+npm test
+```
+
+## Release History
+
+* 0.2.1
+    * CHANGE: Update docs (module code remains unchanged)
+* 0.2.0
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
+* 0.1.1
+    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+* 0.1.0
+    * The first proper release
+    * CHANGE: Rename `foo()` to `bar()`
+* 0.0.1
+    * Work in progress
+
+## Meta
+
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/yourname/github-link](https://github.com/dbader/)
+
+## Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
