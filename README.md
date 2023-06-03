@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsaboor20" alt="ahmadsaboor20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmadsaboor_20" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadsaboor_20?logo=twitter&style=for-the-badge" alt="ahmadsaboor_20" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmadsaboor_20" target="_blank"><img src="https://img.shields.io/twitter/follow/ahmadsaboor_20?logo=twitter&style=for-the-badge" alt="ahmadsaboor_20" /></a> </p>
 
 - 🔭 I’m currently working on **Back End Development**
 
