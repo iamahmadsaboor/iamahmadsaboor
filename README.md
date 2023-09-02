@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamahmadsaboor" alt="iamahmadsaboor" /></a> </p>
 
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=iamahmadsaboor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=iamahmadsaboor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
