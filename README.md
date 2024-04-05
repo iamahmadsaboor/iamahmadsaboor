@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at <b><a href="https://github.com/iamahmadsaboor?tab=repositories">My Projects<a/><b/>
+- 👨‍💻 All of my projects are available at <b><a href="https://github.com/iamahmadsaboor?tab=repositories"> My Projects<a/><b/>
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **iamahmadsaboor@gmail.com**
 
