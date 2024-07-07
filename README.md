@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on <b><a href="https://iamahmadsaboor.vercel.app">FrontEnd Development<a/><b/>
+- 🔭 I’m currently working on <b><a href="https://iamahmadsaboor.vercel.app">Web Development<a/><b/>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Cloud Native Applied Generative AI Engineer**
 
 - 👨‍💻 All of my projects are available at <b><a href="https://github.com/iamahmadsaboor?tab=repositories"> My Projects<a/><b/>
 
